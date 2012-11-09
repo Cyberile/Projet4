@@ -1,4 +1,4 @@
-
+	
 define(['infomanager', 'bubble', 'renderer', 'map', 'animation', 'sprite', 'tile',
         'warrior', 'gameclient', 'audio', 'updater', 'transition', 'pathfinder',
         'item', 'mob', 'npc', 'player', 'character', 'chest', 'mobs', 'exceptions', 'config', '../../shared/js/gametypes'],
@@ -189,8 +189,8 @@ function(InfoManager, BubbleManager, Renderer, Map, Animation, Sprite, AnimatedT
                 },
                 SMALL_TALK: {
                     id: 4,
-                    name: "Small Talk",
-                    desc: "Talk to a non-player character"
+                    name: "Un brin de causette",
+                    desc: "Parle à un personnage non-joueur"
                 },
                 FAT_LOOT: {
                     id: 5,
@@ -792,9 +792,9 @@ function(InfoManager, BubbleManager, Renderer, Map, Animation, Sprite, AnimatedT
                     self.storage.savePlayer(self.renderer.getPlayerImage(),
                                             self.player.getSpriteName(),
                                             self.player.getWeaponName());
-                    self.showNotification("Welcome to BrowserQuest!");
+                    self.showNotification("Bienvenue à Cyberile!");
                 } else {
-                    self.showNotification("Welcome back to BrowserQuest!");
+                    self.showNotification("De retour à Cyberile!");
                     self.storage.setPlayerName(name);
                 }
         

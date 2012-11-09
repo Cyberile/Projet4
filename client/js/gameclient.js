@@ -63,9 +63,9 @@ define(['player', 'entityfactory', 'lib/bison'], function(Player, EntityFactory,
                     if(reply.status === 'OK') {
                         self.dispatched_callback(reply.host, reply.port);
                     } else if(reply.status === 'FULL') {
-                        alert("BrowserQuest is currently at maximum player population. Please retry later.");
+                        alert("Cyberile atteint actuellement sa population maximale. Veuillez réessayer plus tard.");
                     } else {
-                        alert("Unknown error while connecting to BrowserQuest.");
+                        alert("Erreur de connexion à Cyberile inconnue.");
                     }
                 };
             } else {
@@ -98,9 +98,9 @@ define(['player', 'entityfactory', 'lib/bison'], function(Player, EntityFactory,
                     
                     if(self.disconnected_callback) {
                         if(self.isTimeout) {
-                            self.disconnected_callback("You have been disconnected for being inactive for too long");
+                            self.disconnected_callback("Vous avez été déconnecté car vous êtes resté inactif trop longtemps");
                         } else {
-                            self.disconnected_callback("The connection to BrowserQuest has been lost");
+                            self.disconnected_callback("La connexion à Cyberile a été perdue");
                         }
                     }
                 };
