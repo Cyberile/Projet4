@@ -72,7 +72,7 @@ Types = {
         VILLAGER: 44,
         PRIEST: 45,
         SCIENTIST: 46,
-        AGENT: 47,
+        TEACHER: 47,
         RICK: 48,
         NYAN: 49,
         SORCERER: 50,
