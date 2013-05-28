@@ -81,6 +81,7 @@ Types = {
         DESERTNPC: 53,
         LAVANPC: 54,
         CODER: 55,
+        TEACHER: 67,
         
         // Weapons
         SWORD1: 60,
@@ -150,6 +151,7 @@ var kinds = {
     nyan: [Types.Entities.NYAN, "npc"],
     sorcerer: [Types.Entities.SORCERER, "npc"],
     agent: [Types.Entities.AGENT, "npc"],
+    teacher: [Types.Entities.TEACHER, "npc"],
     octocat: [Types.Entities.OCTOCAT, "npc"],
     beachnpc: [Types.Entities.BEACHNPC, "npc"],
     forestnpc: [Types.Entities.FORESTNPC, "npc"],
