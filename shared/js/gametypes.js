@@ -133,6 +133,7 @@ var kinds = {
     platearmor: [Types.Entities.PLATEARMOR, "armor"],
     redarmor: [Types.Entities.REDARMOR, "armor"],
     goldenarmor: [Types.Entities.GOLDENARMOR, "armor"],
+    eleve1: [Types.Entities.ELEVE1, "armor"],
 
     flask: [Types.Entities.FLASK, "object"],
     cake: [Types.Entities.CAKE, "object"],
@@ -178,7 +179,8 @@ Types.rankedArmors = [
     Types.Entities.MAILARMOR,
     Types.Entities.PLATEARMOR,
     Types.Entities.REDARMOR,
-    Types.Entities.GOLDENARMOR
+    Types.Entities.GOLDENARMOR,
+    Types.Entities.ELEVE1
 ];
 
 Types.getWeaponRank = function(weaponKind) {
