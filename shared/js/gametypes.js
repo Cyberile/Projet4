@@ -56,6 +56,7 @@ Types = {
         PLATEARMOR: 24,
         REDARMOR: 25,
         GOLDENARMOR: 26,
+        ELEVE1: 27,
         
         // Objects
         FLASK: 35,
