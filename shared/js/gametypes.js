@@ -47,6 +47,7 @@ Types = {
         SKELETON2: 12,
         BOSS: 13,
         DEATHKNIGHT: 14,
+        ELEVE1: 15,
         
         // Armors
         FIREFOX: 20,
@@ -56,7 +57,6 @@ Types = {
         PLATEARMOR: 24,
         REDARMOR: 25,
         GOLDENARMOR: 26,
-        ELEVE1: 27,
         
         // Objects
         FLASK: 35,
@@ -110,6 +110,7 @@ var kinds = {
     ogre: [Types.Entities.OGRE, "mob"],
     spectre: [Types.Entities.SPECTRE, "mob"],
     deathknight: [Types.Entities.DEATHKNIGHT, "mob"],
+    eleve1: [Types.Entities.ELEVE1, "mob"],
     crab: [Types.Entities.CRAB, "mob"],
     snake: [Types.Entities.SNAKE, "mob"],
     bat: [Types.Entities.BAT, "mob"],
@@ -133,7 +134,6 @@ var kinds = {
     platearmor: [Types.Entities.PLATEARMOR, "armor"],
     redarmor: [Types.Entities.REDARMOR, "armor"],
     goldenarmor: [Types.Entities.GOLDENARMOR, "armor"],
-    eleve1: [Types.Entities.ELEVE1, "armor"],
 
     flask: [Types.Entities.FLASK, "object"],
     cake: [Types.Entities.CAKE, "object"],
