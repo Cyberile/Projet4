@@ -47,7 +47,7 @@ Types = {
         SKELETON2: 12,
         BOSS: 13,
         DEATHKNIGHT: 14,
-        ELEVE1: 15,
+        SNAKE2: 15,
         
         // Armors
         FIREFOX: 20,
