@@ -97,7 +97,7 @@ var Properties = {
         weapon: 2
     },
  
-     snake2: {
+    snake2: {
         drops: {
             flask: 50,
             mailarmor: 10,
@@ -108,7 +108,247 @@ var Properties = {
         armor: 3,
         weapon: 2
     },
- 
+  
+    apprenant1: {
+        drops: {
+            flask: 50,
+            mailarmor: 10,
+            morningstar: 10,
+            firepotion: 5
+        },
+        hp: 150,
+        armor: 3,
+        weapon: 2
+    },
+    
+    apprenant2: {
+        drops: {
+            flask: 50,
+            mailarmor: 10,
+            morningstar: 10,
+            firepotion: 5
+        },
+        hp: 150,
+        armor: 3,
+        weapon: 2
+    },
+        
+    apprenant3: {
+        drops: {
+            flask: 50,
+            mailarmor: 10,
+            morningstar: 10,
+            firepotion: 5
+        },
+        hp: 150,
+        armor: 3,
+        weapon: 2
+    },
+        
+    apprenant4: {
+        drops: {
+            flask: 50,
+            mailarmor: 10,
+            morningstar: 10,
+            firepotion: 5
+        },
+        hp: 150,
+        armor: 3,
+        weapon: 2
+    },
+        
+    apprenant5: {
+        drops: {
+            flask: 50,
+            mailarmor: 10,
+            morningstar: 10,
+            firepotion: 5
+        },
+        hp: 150,
+        armor: 3,
+        weapon: 2
+    },
+        
+    apprenant6: {
+        drops: {
+            flask: 50,
+            mailarmor: 10,
+            morningstar: 10,
+            firepotion: 5
+        },
+        hp: 150,
+        armor: 3,
+        weapon: 2
+    },
+    
+    apprenant7: {
+        drops: {
+            flask: 50,
+            mailarmor: 10,
+            morningstar: 10,
+            firepotion: 5
+        },
+        hp: 150,
+        armor: 3,
+        weapon: 2
+    },
+    
+    apprenant8: {
+        drops: {
+            flask: 50,
+            mailarmor: 10,
+            morningstar: 10,
+            firepotion: 5
+        },
+        hp: 150,
+        armor: 3,
+        weapon: 2
+    },
+    
+    apprenant9: {
+        drops: {
+            flask: 50,
+            mailarmor: 10,
+            morningstar: 10,
+            firepotion: 5
+        },
+        hp: 150,
+        armor: 3,
+        weapon: 2
+    },
+        
+    apprenant10: {
+        drops: {
+            flask: 50,
+            mailarmor: 10,
+            morningstar: 10,
+            firepotion: 5
+        },
+        hp: 150,
+        armor: 3,
+        weapon: 2
+    },
+        
+    apprenant11: {
+        drops: {
+            flask: 50,
+            mailarmor: 10,
+            morningstar: 10,
+            firepotion: 5
+        },
+        hp: 150,
+        armor: 3,
+        weapon: 2
+    },
+        
+    apprenant12: {
+        drops: {
+            flask: 50,
+            mailarmor: 10,
+            morningstar: 10,
+            firepotion: 5
+        },
+        hp: 150,
+        armor: 3,
+        weapon: 2
+    },
+        
+    apprenant13: {
+        drops: {
+            flask: 50,
+            mailarmor: 10,
+            morningstar: 10,
+            firepotion: 5
+        },
+        hp: 150,
+        armor: 3,
+        weapon: 2
+    },
+        
+    apprenant14: {
+        drops: {
+            flask: 50,
+            mailarmor: 10,
+            morningstar: 10,
+            firepotion: 5
+        },
+        hp: 150,
+        armor: 3,
+        weapon: 2
+    },
+        
+    apprenant15: {
+        drops: {
+            flask: 50,
+            mailarmor: 10,
+            morningstar: 10,
+            firepotion: 5
+        },
+        hp: 150,
+        armor: 3,
+        weapon: 2
+    },
+        
+    apprenant16: {
+        drops: {
+            flask: 50,
+            mailarmor: 10,
+            morningstar: 10,
+            firepotion: 5
+        },
+        hp: 150,
+        armor: 3,
+        weapon: 2
+    },
+        
+    apprenant17: {
+        drops: {
+            flask: 50,
+            mailarmor: 10,
+            morningstar: 10,
+            firepotion: 5
+        },
+        hp: 150,
+        armor: 3,
+        weapon: 2
+    },
+        
+    apprenant18: {
+        drops: {
+            flask: 50,
+            mailarmor: 10,
+            morningstar: 10,
+            firepotion: 5
+        },
+        hp: 150,
+        armor: 3,
+        weapon: 2
+    },
+        
+    apprenant19: {
+        drops: {
+            flask: 50,
+            mailarmor: 10,
+            morningstar: 10,
+            firepotion: 5
+        },
+        hp: 150,
+        armor: 3,
+        weapon: 2
+    },
+        
+    apprenant20: {
+        drops: {
+            flask: 50,
+            mailarmor: 10,
+            morningstar: 10,
+            firepotion: 5
+        },
+        hp: 150,
+        armor: 3,
+        weapon: 2
+    },
+
     skeleton2: {
         drops: {
             flask: 60,
