@@ -113,6 +113,7 @@ var kinds = {
     eleve1: [Types.Entities.ELEVE1, "mob"],
     crab: [Types.Entities.CRAB, "mob"],
     snake: [Types.Entities.SNAKE, "mob"],
+    snake2: [Types.Entities.SNAKE2, "mob"],
     bat: [Types.Entities.BAT, "mob"],
     wizard: [Types.Entities.WIZARD, "mob"],
     eye: [Types.Entities.EYE, "mob"],
