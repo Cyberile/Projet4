@@ -72,15 +72,6 @@ var Properties = {
         weapon: 3
     },
     
-    eleve1: {
-        drops: {
-            burger: 95,
-            firepotion: 5
-        },
-        hp: 250,
-        armor: 3,
-        weapon: 3
-    },
     
     crab: {
         drops: {
@@ -105,7 +96,19 @@ var Properties = {
         armor: 3,
         weapon: 2
     },
-    
+ 
+     snake2: {
+        drops: {
+            flask: 50,
+            mailarmor: 10,
+            morningstar: 10,
+            firepotion: 5
+        },
+        hp: 150,
+        armor: 3,
+        weapon: 2
+    },
+ 
     skeleton2: {
         drops: {
             flask: 60,
